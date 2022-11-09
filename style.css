@@ -1,0 +1,26 @@
+body{
+    max-width: 300px;
+    margin: 40px auto;
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+  h1 {
+    margin: 0 0 30px 0;
+    text-align: left;
+    color: #671ba5;
+  }
+
+  button {
+  padding: 19px 39px 18px 39px;
+  color: rgb(246, 197, 35);
+  background-color: #671ba5;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 5px;
+
+  border: 1px solid ;
+  
+
+  margin-bottom: 50px;
+}
